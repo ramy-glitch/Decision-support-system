@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "decision-support/app",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "A Laravel decision-support system that compares alternatives with the Weighted Sum Method.",
+    "keywords": ["laravel", "decision-support", "wsm"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
