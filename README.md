@@ -39,7 +39,7 @@ In another terminal:
 ```bash
 php artisan serve
 ```
-
+For demonstration purposes: 
 Open [http://localhost:8000](http://localhost:8000) and sign in with the seeded admin account:
 
 - Email: `admin@example.com`
